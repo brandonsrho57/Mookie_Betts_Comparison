@@ -26,6 +26,6 @@ the episode that had the most popularity was the show that aired on April 28, 20
 
 *If you want to know where I got the info on Barry's ratings, check out the [BaseDig API for Barry](https://www.basedig.com/wikipedia/811barry-tv-series-reception-ratings-526902/)!*
 
-#### Extra Information/Data
+#### This Assignment!
 I retrieved all of this info from different APIs scattered throughout the internet. If you want to check out this assignment and
 others who have completed this assignment, click [here](https://github.com/mikeizbicki/cmc-csci040/tree/2020fall/hw_02)!
